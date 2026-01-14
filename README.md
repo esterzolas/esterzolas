@@ -27,7 +27,7 @@
 
 ---
 
-## Software & Productivity Tools
+### 💻 Software & Productivity Tools
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
