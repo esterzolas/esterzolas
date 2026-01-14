@@ -1,7 +1,7 @@
 # Olá, eu sou a Ester! 👋
 
 <p align="center">
-  <img src="https://k-tech-seven.vercel.app/api/capsule-render?type=waving&color=ffeeee&height=200&section=header&text=Bem-vinda!&fontSize=70&fontColor=889977" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=ffeeee&height=150&text=esterzolas&fontSize=70&fontColor=889977" />
 </p>
 
 ### 🌸 Sobre mim
@@ -26,9 +26,11 @@
 
 ---
 
-### 📈 Atividades e Métricas
+### 📊 Estatísticas
+
 <p align="left">
-  <img src="https://metrics.lecoq.io/esterzolas?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Estatísticas esterzolas" width="100%">
+  <img height="180em" src="https://github-readme-stats-git-masterrst0ne.vercel.app/api/top-langs/?username=esterzolas&layout=compact&langs_count=8&theme=leafy&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrst0ne.vercel.app/api?username=esterzolas&show_icons=true&theme=leafy&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 ---
