@@ -1,4 +1,4 @@
-# Olá, eu sou a esterzolas! 👋
+# Olá, eu sou a Ester! 👋
 
 ![Header](https://capsule-render.vercel.app/render?type=waving&color=ffeeee&height=250&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=889977)
 
