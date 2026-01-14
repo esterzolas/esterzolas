@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/University-UFU-E11E26?style=for-the-badge" alt="UFU">
   <img src="https://img.shields.io/badge/Just%20a%20Girl-pink?style=for-the-badge" alt="Just a Girl">
-  <span>👋</span>
 </div>
 
 ### 🌸 Sobre mim
