@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou a esterzolas! 👋
 
-<!--
-**esterzolas/esterzolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/render?type=waving&color=ffeeee&height=250&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=889977)
 
-Here are some ideas to get you started:
+### 🌸 Sobre mim
+- 🎓 **Estudante de Ciência da Computação** em busca de novos desafios.
+- 🛠️ Atualmente modelando um **E-commerce** para fortalecer meu portfólio de estágio.
+- 🧠 Entusiasta de Dados.
+- 🎨 Valorizo a estética e a clareza em tudo o que desenvolvo. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Minha Caixa de Ferramentas (Tech Stack)
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white&color=C1E1C1" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white&color=FFD1DC" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&color=FDFD96" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white&color=C1E1C1" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white&color=FFD1DC" />
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white&color=FDFD96" />
+  <img src="https://img.shields.io/badge/Prolog-74283c?style=flat-square&logo=prolog&logoColor=white&color=C1E1C1" />
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterzolas&layout=compact&langs_count=8&theme=leafy&hide_border=true&title_color=889977&icon_color=889977&text_color=777777&bg_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esterzolas&show_icons=true&theme=leafy&include_all_commits=true&count_private=true&hide_border=true&title_color=889977&icon_color=889977&text_color=777777&bg_color=ffffff" />
+</p>
+
+---
+
+### 🤝 Vamos conversar?
+<p align="left">
+<a href="www.linkedin.com/in/ester-freitas-2a5abb22a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=FFD1DC" /></a>
+</p>
+
+---
+<p align="center">🌱 <i>Construindo soluções, um bit de cada vez.</i></p>
