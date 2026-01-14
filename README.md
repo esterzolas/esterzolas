@@ -1,19 +1,19 @@
-# Olá, eu sou a Ester! 👋
+# Hi, I'm Ester! 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/University-UFU-E11E26?style=for-the-badge" alt="UFU">
-  <img src="https://img.shields.io/badge/Just%20a%20Girl-pink?style=for-the-badge" alt="Just a Girl">
+  <img src="https://img.shields.io/badge/University-UFU-003366?style=for-the-badge" alt="UFU">
+  <img src="https://img.shields.io/badge/Just%20a%20Girl-C1E1C1?style=for-the-badge" alt="Just a Girl">
 </div>
 
-### 🌸 Sobre mim
-- 🎓 **Estudante de Ciência da Computação** em busca de novos desafios.
-- 🛠️ Atualmente modelando um **E-commerce** para fortalecer meu portfólio.
-- 🧠 Entusiasta de Dados.
-- 🎨 Valorizo a estética e a clareza em tudo o que desenvolvo.
+### 🌸 About Me
+- 🎓 **Computer Science Student** seeking new challenges.
+- 🛠️ Currently modeling an **E-commerce** to strengthen my internship portfolio.
+- 🧠 Data Enthusiast.
+- 🎨 I value aesthetics and clarity in everything I develop.
 
 ---
 
-### 🛠️ Minha Tech Stack
+### 🛠️ My Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-C1E1C1?style=for-the-badge&logo=c&logoColor=white" />
@@ -35,14 +35,14 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=trello&logoColor=white)
 
-Trabalho regularmente com ferramentas de documentação, fluxos de trabalho e ambientes de produtividade acadêmica.
+I regularly work with documentation tools, workflows, and academic productivity environments.
 
 ---
 
-### 🤝 Vamos conversar?
+### 🤝 Let's connect!
 <p align="left">
-<a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ester-freitas-2a5abb22a"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
-<p align="center">🌱 <i>Construindo soluções, um bit de cada vez.</i></p>
+<p align="center">🌱 <i>Building solutions, one bit at a time.</i></p>
