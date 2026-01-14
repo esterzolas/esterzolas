@@ -1,6 +1,8 @@
 # Olá, eu sou a Ester! 👋
 
-![Header](https://capsule-render.vercel.app/render?type=waving&color=ffeeee&height=250&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=889977)
+<p align="center">
+  <img src="https://k-tech-seven.vercel.app/api/capsule-render?type=waving&color=ffeeee&height=200&section=header&text=Bem-vinda!&fontSize=70&fontColor=889977" />
+</p>
 
 ### 🌸 Sobre mim
 - 🎓 **Estudante de Ciência da Computação** em busca de novos desafios.
@@ -24,11 +26,9 @@
 
 ---
 
-### 📊 Estatísticas
-
+### 📈 Atividades e Métricas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterzolas&layout=compact&langs_count=8&theme=leafy&hide_border=true&title_color=889977&icon_color=889977&text_color=777777&bg_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esterzolas&show_icons=true&theme=leafy&include_all_commits=true&count_private=true&hide_border=true&title_color=889977&icon_color=889977&text_color=777777&bg_color=ffffff" />
+  <img src="https://metrics.lecoq.io/esterzolas?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Estatísticas esterzolas" width="100%">
 </p>
 
 ---
