@@ -1,8 +1,10 @@
 # Olá, eu sou a Ester! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anderson-f-pinto/anderson-f-pinto/main/assets/header.gif" width="100%" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/University-UFU-E11E26?style=for-the-badge" alt="UFU">
+  <img src="https://img.shields.io/badge/Just%20a%20Girl-pink?style=for-the-badge" alt="Just a Girl">
+  <span>👋</span>
+</div>
 
 ### 🌸 Sobre mim
 - 🎓 **Estudante de Ciência da Computação** em busca de novos desafios.
@@ -26,10 +28,15 @@
 
 ---
 
-### 📊 Estatísticas
-<p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=esterzolas&theme=react-light&area=true&hide_border=true" width="100%" />
-</p>
+## Software & Productivity Tools
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google-workspace&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=trello&logoColor=white)
+
+Trabalho regularmente com ferramentas de documentação, fluxos de trabalho e ambientes de produtividade acadêmica.
 
 ---
 
