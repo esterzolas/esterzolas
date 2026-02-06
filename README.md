@@ -9,7 +9,7 @@
 I am a Computer Science student passionate about solving real-world problems through data and efficient code.
 - 🎓 **Computer Science Student** at UFU (Universidade Federal de Uberlândia).
 - 🧠 **Data Enthusiast:** Experienced in handling large datasets (**2M+ records**) and extracting insights using R and SQL.
-- 💼 **Business Oriented:** Experience with corporate challenges (Grupo Saga) and academic leadership.
+- 💼 **Business Oriented:** Experience with corporate challenges (Kyros Tecnologia) and academic leadership.
 - 🎨 **Documentation:** I believe code must be clean, and documentation must be beautiful.
 
 ---
